@@ -1,5 +1,5 @@
 {
-  "name": "p77",
+  "name": "p177",
   "version": "0.4.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0 1.0",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p77.git"
+    "url": "git+https://github.com/iqb-vocabs/p177.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p77/issues"
+    "url": "https://github.com/iqb-vocabs/p177/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p77#readme",
+  "homepage": "https://github.com/iqb-vocabs/p177#readme",
   "dependencies": {
     "@iqb/validate-md-profile": "0.10.5"
   }
