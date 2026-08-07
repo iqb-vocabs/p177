@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Chemie Sek I - Aufgabe"
 
-ID of profile: [https://w3id.org/iqb/p177/unit/](https://w3id.org/iqb/p177/unit/)
+ID of profile: `https://w3id.org/iqb/p177/unit/`
 
 ### Stimulus
 
@@ -40,7 +40,7 @@ ID of profile: [https://w3id.org/iqb/p177/unit/](https://w3id.org/iqb/p177/unit/
 
 ## Profil "IQB Chemie Sek I - Item"
 
-ID of profile: [https://w3id.org/iqb/p177/item/](https://w3id.org/iqb/p177/item/)
+ID of profile: `https://w3id.org/iqb/p177/item/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
